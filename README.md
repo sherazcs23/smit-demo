@@ -1,2 +1,1 @@
-# smit-demo
-this is my first repository
+This is the first repository of my journey on Github.
